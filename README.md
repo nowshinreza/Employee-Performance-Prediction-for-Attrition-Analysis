@@ -26,7 +26,7 @@ A complete data science pipeline was implemented, including data cleaning, featu
 - Train–test split: 80% training, 20% testing
 
 ### 🔍 Preprocessed Dataset Snapshot
-![Preprocessed Dataset](images/preprocessed_dataset.png)
+![Preprocessed Dataset](preproccesed_dataset.png)
 
 
 
@@ -50,6 +50,24 @@ All models were trained using **scikit-learn pipelines** for reproducibility and
 | XGBoost | 80.0% | 0.7900 |
 | MLP Neural Network | **93.0%** | **0.9297** |
 | Voting Ensemble | 85.7% | 0.8534 |
+
+
+## Confusion Matrices
+
+###Logistic Regression
+![LR CM](confusion_matrix1.png)
+
+### Random Forest
+![RF CM](confusion_matrix2.png)
+
+### XGBoost
+![XGB CM](confusion_matrix3.png)
+
+### MLP Neural Network
+![MLP CM](confusion_matrix4.png)
+
+### Voting Ensemble
+![Ensemble CM](confusion_matrix5.png)
 
 
 
