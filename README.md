@@ -25,7 +25,7 @@ A complete data science pipeline was implemented, including data cleaning, featu
 - Class imbalance handled using **SMOTE**
 - Train–test split: 80% training, 20% testing
 
-### 🔍 Preprocessed Dataset Snapshot
+### Preprocessed Dataset Snapshot
 <img src="preproccesed_dataset.png" width="300"/>
 
 
