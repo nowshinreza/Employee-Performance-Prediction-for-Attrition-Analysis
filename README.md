@@ -53,22 +53,24 @@ All models were trained using **scikit-learn pipelines** for reproducibility and
 
 
 ## Confusion Matrices
+ Logistic Regression  
+<img src="confusion_matrix1.png" width="300"/>
 
-###Logistic Regression
-![LR CM](confusion_matrix1.png)
+---
+Random Forest  
+<img src="confusion_matrix2.png" width="300"/>
 
-### Random Forest
-![RF CM](confusion_matrix2.png)
+---
+XGBoost  
+<img src="confusion_matrix3.png" width="300"/>
 
-### XGBoost
-![XGB CM](confusion_matrix3.png)
+---
+ MLP Neural Network  
+<img src="confusion_matrix4.png" width="300"/>
 
-### MLP Neural Network
-![MLP CM](confusion_matrix4.png)
-
-### Voting Ensemble
-![Ensemble CM](confusion_matrix5.png)
-
+---
+ Voting Ensemble  
+<img src="confusion_matrix5.png" width="300"/>
 
 
 ##  Key Findings
