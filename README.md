@@ -71,7 +71,7 @@ XGBoost
 ---
  Voting Ensemble  
 <img src="confusion_matrix5.png" width="300"/>
-
+---
 
 ##  Key Findings
 - Neural networks outperform linear and tree-based models
